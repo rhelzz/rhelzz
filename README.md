@@ -40,8 +40,6 @@ I'm a passionate web developer and graphic designer with a love for combining lo
 ## 📈 GitHub Stats
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[rhelzz]" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[rhelzz]&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=[rhelzz]&show_icons=true&hide_title=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ## 🌐 Connect with Me
