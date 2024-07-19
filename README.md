@@ -3,6 +3,8 @@
 ## 🚀 About Me
 I'm a passionate web developer and graphic designer with a love for combining logic and creativity. Always excited to learn new technologies and build innovative solutions.
 
+---
+
 ## 🛠️ Skills
 
 ### 💻 Programming Languages
@@ -37,15 +39,24 @@ I'm a passionate web developer and graphic designer with a love for combining lo
   <li>Animation</li>
 </ul>
 
+---
+
 ## 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[rhelzz]" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhelzz" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhelzz&layout=compact" alt="Most Used Languages" />
+</p>
+
+---
 
 ## 🌐 Connect with Me
 <ul>
   <li><strong>Email:</strong> <a href="mailto:muhammadrasyad1004@gmail.com">muhammadrasyad1004@gmail.com</a></li>
 </ul>
+
+---
 
 ## 📚 Recent Projects
 <ul>
@@ -53,11 +64,13 @@ I'm a passionate web developer and graphic designer with a love for combining lo
   <li><a href="link-to-project">Project 2</a>: Renne Art</li>
 </ul>
 
+---
+
 ## 📜 Current Learning
 <p>
   <strong>Parallax Scrolling:</strong> Learning to implement parallax scrolling using GSAP.
 </p>
 
-Feel free to explore my repositories and connect with me if you're interested in collaborating or just want to chat!
-
 ---
+
+Feel free to explore my repositories and connect with me if you're interested in collaborating or just want to chat!
