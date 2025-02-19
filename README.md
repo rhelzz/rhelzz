@@ -79,10 +79,15 @@
 
 ## 🎯 Featured Projects
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
 
-[![BBLara Cashier](https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=bblara-cashier&theme=tokyonight)](https://github.com/rhelzz/bblara-cashier)
-[![BBLara POS](https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=bblara-pos&theme=tokyonight)](https://github.com/rhelzz/bblara-pos)
+<a href="https://github.com/rhelzz/bblara-cashier">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=bblara-cashier&theme=tokyonight&cache_seconds=86400" width="400" />
+</a>
+
+<a href="https://github.com/rhelzz/bblara-pos">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=bblara-pos&theme=tokyonight&cache_seconds=86400" width="400" />
+</a>
 
 </div>
 
