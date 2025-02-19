@@ -79,15 +79,20 @@
 
 ## 🎯 Featured Projects
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
 
 <a href="https://github.com/rhelzz/bblara-cashier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=bblara-cashier&theme=tokyonight&cache_seconds=86400" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=bblara-cashier&theme=tokyonight&cache_seconds=86400" width="495" />
 </a>
 
 <a href="https://github.com/rhelzz/bblara-pos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=bblara-pos&theme=tokyonight&cache_seconds=86400" width="400" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=bblara-pos&theme=tokyonight&cache_seconds=86400" width="495" />
 </a>
+
+<!-- You can add more projects here -->
+<!-- <a href="https://github.com/rhelzz/your-repo-name">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=your-repo-name&theme=tokyonight&cache_seconds=86400" width="495" />
+</a> -->
 
 </div>
 
