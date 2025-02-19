@@ -79,9 +79,9 @@
 
 ## 🎯 Featured Projects
 
-<div align="center" style="display: flex; align-items: center; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
 
-<a href="https://github.com/rhelzz/bblara-cashier">
+<a href="https://github.com/rhelzz/bblara-cashier" style="margin-bottom: 100px;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=bblara-cashier&theme=tokyonight&cache_seconds=86400" width="495" />
 </a>
 
