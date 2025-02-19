@@ -81,8 +81,8 @@
 
 <div align="center">
 
-[![Aplikasi Absen](https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=aplikasi-absen&theme=tokyonight)](https://github.com/rhelzz/aplikasi-absen)
-[![Renne Art](https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=renne-art&theme=tokyonight)](https://github.com/rhelzz/renne-art)
+[![Aplikasi Absen](https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=aplikasi-absen&theme=tokyonight)](https://github.com/rhelzz/bblara-cashier)
+[![Renne Art](https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=renne-art&theme=tokyonight)](https://github.com/rhelzz/bblara-pos)
 
 </div>
 
