@@ -81,8 +81,8 @@
 
 <div align="center">
 
-[![Aplikasi Absen](https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=aplikasi-absen&theme=tokyonight)](https://github.com/rhelzz/bblara-cashier)
-[![Renne Art](https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=renne-art&theme=tokyonight)](https://github.com/rhelzz/bblara-pos)
+[![BBLara Cashier](https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=bblara-cashier&theme=tokyonight)](https://github.com/rhelzz/bblara-cashier)
+[![BBLara POS](https://github-readme-stats.vercel.app/api/pin/?username=rhelzz&repo=bblara-pos&theme=tokyonight)](https://github.com/rhelzz/bblara-pos)
 
 </div>
 
@@ -174,9 +174,6 @@ const learningJourney = {
   </a>
   <a href="https://linkedin.com/in/rhelzz">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@rhelzz">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </div>
 
