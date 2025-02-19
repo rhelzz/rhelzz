@@ -76,6 +76,11 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rhelzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhelzz&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rhelzz&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
 ## 🎯 Featured Projects
@@ -186,12 +191,6 @@ const learningJourney = {
 <div align="center">
   <!-- Replace the old Heroku graph with GitHub's contribution calendar -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rhelzz&theme=tokyo-night&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-  
-  <!-- Alternative Version -->
-  ![Snake animation](https://github.com/rhelzz/rhelzz/blob/output/github-contribution-grid-snake.svg)
-  
-  <!-- GitHub Contribution Calendar -->
-  <img src="https://github.com/rhelzz/rhelzz/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" />
 </div>
 
 ---
